@@ -1,0 +1,3 @@
+# Shopping Cart App in React.js
+
+This shopping cart app, crafted with React and styled using Tailwind CSS, offers a sleek and responsive user experience. It leverages `react-router` for seamless navigation between product pages and the cart. Alerts and notifications are managed efficiently with `react-toastify`, ensuring users are promptly informed of updates. For a smooth and engaging interface, a `react-loader-spinner` is used to display loading states during data fetches and processing.
